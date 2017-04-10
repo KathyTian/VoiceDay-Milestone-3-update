@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.myapplication.MainActivity">
+    <item
+        android:id="@+id/action_public_cycle"
+        android:orderInCategory="100"
+        android:title="Public Cycle"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_sign_out"
+        android:orderInCategory="100"
+        android:title="Sign out"
+        app:showAsAction="never" />
+</menu>
