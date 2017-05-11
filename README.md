@@ -2,7 +2,7 @@ The Final Project for E6895 Big Data--VoiceDay
 ===================
 
 
-This is the final project for E6895 Advanced Big data class in Columbia University. Our project name is  **VoiceDay based on speech recognition**. It is an Android APP including the speech recognition, sentimental analysis (two methods) and face emotion analysis. The team member is Tianrou Wang(tw2565) and Yuan Tian(yt2545). If you have any question, please don't hesitate to contact me.
+This is the final project for E6895 Advanced Big data analytics class in Columbia University. Our project name is  **VoiceDay based on speech recognition**. It is an Android APP including the speech recognition, sentimental analysis (two methods) and face emotion analysis. The team member is Tianrou Wang(tw2565) and Yuan Tian(yt2545). If you have any question, please don't hesitate to contact me.
 
 ----------
 
