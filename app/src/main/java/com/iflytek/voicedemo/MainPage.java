@@ -25,7 +25,6 @@ public class MainPage extends Activity implements View.OnClickListener {
 
     private static final String TAG = MainActivity.class.getSimpleName();
     private Toast mToast;
-    //public static final String login = "login";
     @SuppressLint("ShowToast")
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -43,36 +42,12 @@ public class MainPage extends Activity implements View.OnClickListener {
         Intent intent = null;
         switch (tag) {
             case 0:
-                // 语音转写
                 Intent intent1 = getIntent();
                 String username = intent1.getStringExtra(login);
                 intent = new Intent(MainPage.this, IatDemo.class);
                 intent.putExtra(login,username);
                 break;
-//		case 1:
-//			// 语法识别
-//			intent = new Intent(MainActivity.this, AsrDemo.class);
-//			break;
-//		case 2:
-//			// 语义理解
-//			intent = new Intent(MainActivity.this, UnderstanderDemo.class);
-//			break;
-//		case 3:
-//			// 语音合成
-//			intent = new Intent(MainActivity.this, TtsDemo.class);
-//			break;
-//		case 4:
-//			// 语音评测
-//			intent = new Intent(MainActivity.this, IseDemo.class);
-//			break;
-//		case 5:
-//			// 唤醒
-//			showTip("请登录：http://www.xfyun.cn/ 下载体验吧！");
-//			break;
-//		case 6:
-//			// 声纹
             default:
-                //showTip("在IsvDemo中哦，为了代码简洁，就不放在一起啦，^_^");
                 break;
         }
 
@@ -80,8 +55,6 @@ public class MainPage extends Activity implements View.OnClickListener {
             startActivity(intent);
         }
     }
-
-    // Menu 列表
     String items[] = {"Start"};
 
     private class SimpleAdapter extends BaseAdapter {
@@ -123,7 +96,6 @@ public class MainPage extends Activity implements View.OnClickListener {
 
     @Override
     protected void onResume() {
-        // 开放统计 移动数据统计分析
         FlowerCollector.onResume(MainPage.this);
         FlowerCollector.onPageStart(TAG);
         super.onResume();
@@ -131,7 +103,6 @@ public class MainPage extends Activity implements View.OnClickListener {
 
     @Override
     protected void onPause() {
-        // 开放统计 移动数据统计分析
         FlowerCollector.onPageEnd(TAG);
         FlowerCollector.onPause(MainPage.this);
         super.onPause();

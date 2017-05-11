@@ -34,11 +34,6 @@ public class Register extends Activity {
         TextView passWord = (TextView) findViewById(R.id.password1);
 
 
-		/*db.execSQL("create table if not exists positive_table("
-				+ "id integer,"
-				+ "value varchar primary key,"
-				+ "flag integer)");*/
-
         if(queryUser(myHelper,userName.getText().toString(),passWord.getText().toString(),tv3)) {
             SQLiteDatabase db = myHelper.getWritableDatabase();
             ContentValues values = new ContentValues();

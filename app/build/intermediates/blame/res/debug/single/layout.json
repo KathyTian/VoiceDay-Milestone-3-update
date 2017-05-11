@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/res/merged/debug/layout/recognize.xml",
+        "source": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/src/main/res/layout/recognize.xml"
+    },
+    {
         "merged": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
         "source": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/layout/design_menu_item_action_area.xml"
     },
@@ -28,10 +32,6 @@
         "source": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/notification_action.xml"
     },
     {
-        "merged": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/res/merged/debug/layout/isedemo.xml",
-        "source": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/src/main/res/layout/isedemo.xml"
-    },
-    {
         "merged": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/res/merged/debug/layout/main.xml",
         "source": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/src/main/res/layout/main.xml"
     },
@@ -44,24 +44,12 @@
         "source": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
-        "source": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/notification_template_custom_big.xml"
-    },
-    {
         "merged": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
         "source": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/res/merged/debug/layout/ttsdemo.xml",
-        "source": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/src/main/res/layout/ttsdemo.xml"
-    },
-    {
         "merged": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
         "source": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_action_mode_bar.xml"
-    },
-    {
-        "merged": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/res/merged/debug/layout/understander.xml",
-        "source": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/src/main/res/layout/understander.xml"
     },
     {
         "merged": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/res/merged/debug/layout/tab3_music.xml",
@@ -86,6 +74,10 @@
     {
         "merged": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
         "source": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/res/merged/debug/layout/select_image.xml",
+        "source": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/src/main/res/layout/select_image.xml"
     },
     {
         "merged": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
@@ -158,10 +150,6 @@
     {
         "merged": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
         "source": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/layout/design_navigation_menu.xml"
-    },
-    {
-        "merged": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/res/merged/debug/layout/isrdemo.xml",
-        "source": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/src/main/res/layout/isrdemo.xml"
     },
     {
         "merged": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
@@ -262,6 +250,10 @@
     {
         "merged": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
         "source": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/res/merged/debug/layout/tab4_image.xml",
+        "source": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/src/main/res/layout/tab4_image.xml"
     },
     {
         "merged": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",

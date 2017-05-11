@@ -58,6 +58,9 @@
             </intent-filter>
         </activity>
         <activity android:name="com.iflytek.voicedemo.MainPage"></activity>
+        <activity android:name="com.iflytek.voicedemo.Recognize"></activity>
+        <activity android:name="com.iflytek.helper.SelectImageActivity"></activity>
+
         <activity
             android:name="com.iflytek.speech.setting.IseSettings"
             android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|fontScale"

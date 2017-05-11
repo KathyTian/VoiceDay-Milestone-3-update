@@ -34,25 +34,19 @@ public class Details extends Activity {
         String sentiment = result.getStringExtra(sentiment_adapter);
         String word = result.getStringExtra(word_adapter);
         id = result.getStringExtra(id_adapter);
-        //String time = result.getStringExtra(time_adapter);
         final TextView Status = (TextView) findViewById(R.id.sentiment);
         final TextView Word = (TextView) findViewById(R.id.word);
-        //final TextView Time = (TextView)findViewById(R.id.time);
         Status.setText(sentiment);
         Word.setText(word);
-        //Time.setText(time);
     }
 
     public void MakePublic(View view) {
 
         Toast.makeText(this, "Save your preference!", Toast.LENGTH_LONG).show();
         SQLiteDatabase db = myHelper.getWritableDatabase();
-//        String where = "_id=?";
-//        String whereArgs = id;
         ContentValues cv = new ContentValues();
         cv.put("permission", "public");
         db.update("diary_table", cv, "_id="+id, null);
-        //cursor.close();
         db.close();
     }
 

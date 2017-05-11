@@ -1,4 +1,4 @@
-#Thu Apr 06 17:31:44 EDT 2017
+#Wed May 10 21:21:28 EDT 2017
 base.0=/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_85634e52236c3ce895aec6bba9f3c2750bc223b4
 renamed.1=classes2.dex
 renamed.0=classes.dex

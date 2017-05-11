@@ -22,15 +22,10 @@ public class PublicCycle extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.public_cycle);
         mRecyclerView = (RecyclerView) findViewById(R.id.my_recycler_view);
-
-        // use this setting to improve performance if you know that changes
-        // in content do not change the layout size of the RecyclerView
         mRecyclerView.setHasFixedSize(true);
 
-        // use a linear layout manager
         mRecyclerView.setLayoutManager(new GridLayoutManager(this, 2));
 
-        // specify an adapter (see also next example)
         ArrayList<String> myDataset1 = new ArrayList<String>() {
         };
         ArrayList<String> myDataset2 = new ArrayList<String>() {
@@ -39,16 +34,6 @@ public class PublicCycle extends Activity {
         };
         myHelper = new MySQLiteHelper(this, "my.db", null, 1);
         SQLiteDatabase db = myHelper.getReadableDatabase();
-//        Intent intent = getIntent();
-//        String text = intent.getStringExtra(textKey);
-//        String name = intent.getStringExtra(login);
-//        String senti = intent.getStringExtra(sentiment);
-
-//        ContentValues newValues = new ContentValues();
-//        newValues.put("username", Name);
-//        newValues.put("diary", Word);
-//        newValues.put("sentiment",Senti);
-//        db.insert("diary_table", null, newValues);
 
         cursor = getAllDiary(myHelper);
         mAdapter = new MySecondAdapter(myDataset1, myDataset2, myDataset3, this, cursor);

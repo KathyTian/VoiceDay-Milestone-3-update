@@ -155,6 +155,9 @@ public class Diary extends AppCompatActivity {
                     bundles.putInt(threshold,sum);
                     tab3.setArguments(bundles);
                     return tab3;
+                case 3:
+                    Tab4_image tab4 = new Tab4_image();
+                    return tab4;
                 default:
                     Tab1_statistics tab0=new Tab1_statistics();
                     return tab0;
@@ -164,7 +167,7 @@ public class Diary extends AppCompatActivity {
         @Override
         public int getCount() {
             // Show 3 total pages.
-            return 3;
+            return 4;
         }
 
         @Override
@@ -176,6 +179,8 @@ public class Diary extends AppCompatActivity {
                     return "DIARY";
                 case 2:
                     return "MUSIC";
+                case 3:
+                    return "IMAGE";
             }
             return null;
         }

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:focusable="true"
@@ -8,7 +9,8 @@
     android:orientation="vertical"
     android:paddingLeft="10dp"
     android:paddingRight="10dp"
-    android:background="@drawable/layout_backgroud">
+    android:background="@drawable/layout_backgroud"
+    tools:context=".IatDemo">
 
     <RelativeLayout
         android:layout_width="match_parent"
@@ -20,49 +22,39 @@
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
             android:text="Please record your mood"
-            android:textSize="20sp"
+            android:textSize="18sp"
             android:textColor="@color/white"/>
 
         <ImageButton
             android:id="@+id/image_iat_set"
-            android:layout_width="35dp"
-            android:layout_height="35dp"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
             android:layout_alignParentRight="true"
             android:layout_centerVertical="true"
             android:background="@drawable/main_setting_btn_np" />
     </RelativeLayout>
 
-    <LinearLayout
-        android:layout_width="match_parent"
+
+    <ImageView
+        android:src="@drawable/chicken"
+        android:layout_width="150dp"
+        android:layout_height="130dp"
+        android:layout_marginTop="0dp"
+        android:id="@+id/imageView3" />
+
+    <TextView
+        android:id="@+id/iat_recognize"
+        style="@style/LabelText"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="3dp"
-        android:gravity="center_vertical"
-        android:orientation="vertical"
-        android:layout_weight="0.41">
+        android:gravity="center"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="30dp"
+        android:background="@color/skyblue"
+        android:text="Start Speaking"
+        android:textColor="@color/white"/>
 
-        <ImageView
-            android:src="@drawable/chicken"
-            android:layout_width="180dp"
-            android:layout_height="166dp"
-            android:layout_marginLeft="75dp"
-            android:layout_marginRight="@dimen/margin_"
-            android:layout_marginTop="0dp"
-            android:id="@+id/imageView3" />
-
-        <Button
-            android:id="@+id/iat_recognize"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-
-            android:layout_marginLeft="@dimen/margin_"
-            android:layout_marginRight="@dimen/margin_"
-            android:layout_marginTop="30dp"
-            android:background="@color/skyblue"
-            android:text="Start Speaking"
-            android:textSize="20sp"
-            android:textColor="@color/white"/>
-
-    </LinearLayout>
+    <!--</LinearLayout>-->
 
     <EditText
         android:id="@+id/iat_text"
@@ -71,101 +63,84 @@
         android:layout_marginTop="0dp"
         android:layout_weight="1"
         android:gravity="top|left"
-        android:paddingBottom="20dp"
-        android:textSize="20sp" />
-    <TextView
-        android:id="@+id/tv1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text=""
-        android:textSize="20sp"/>
-    <Button
-        android:id="@+id/iat_recognize2"
+        android:background="@android:drawable/edit_text"
+        android:textColor="@color/light_green"
+        android:paddingBottom="20dp" />
+
+
+    <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_weight="0.41">
 
-        android:layout_marginLeft="@dimen/margin_"
-        android:layout_marginRight="@dimen/margin_"
-        android:layout_marginTop="30dp"
-        android:background="@color/skyblue"
-        android:text="Submit"
-        android:onClick="Submit"
-        android:textSize="20sp"
-        android:textColor="@color/white"/>
+    </RelativeLayout>
 
-    <RadioGroup
-        android:id="@+id/radioGroup"
+    <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:contentDescription="听写类型"
-        android:orientation="horizontal" >
+        android:orientation="horizontal"
+        android:layout_weight="0.41">
 
-        <!--<RadioButton-->
-            <!--android:id="@+id/iatRadioCloud"-->
-            <!--android:layout_width="wrap_content"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:layout_weight="1"-->
-            <!--android:checked="true"-->
-            <!--android:text="云端" >-->
-        <!--</RadioButton>-->
+        <TextView
+            android:id="@+id/tv1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:text="" />
 
-        <!--<RadioButton-->
-            <!--android:id="@+id/iatRadioLocal"-->
-            <!--android:layout_width="wrap_content"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:layout_weight="1"-->
-            <!--android:text="本地" >-->
-        <!--</RadioButton>-->
+        <!-- Sentiments -->
 
-        <!--<RadioButton-->
-            <!--android:id="@+id/iatRadioMix"-->
-            <!--android:layout_width="wrap_content"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:layout_weight="1"-->
-            <!--android:text="混合" >-->
-        <!--</RadioButton>-->
-    </RadioGroup>
+        <TextView
+            android:id="@+id/our_score"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_toRightOf="@+id/tv1"
+            android:layout_marginLeft="5dp"
+            tools:text="Sentiment score is - " />
 
+        <TextView
+            android:id="@+id/azure"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/tv1"
+            android:text="" />
 
+        <!-- Sentiments -->
 
-    <!--<Button-->
-        <!--android:id="@+id/iat_recognize_stream"-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:layout_marginTop="10dp"-->
-        <!--android:text="音频流识别"-->
-        <!--android:textSize="20sp" />-->
+        <TextView
+            android:id="@+id/sentiment_score"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_toRightOf="@+id/tv1"
+            android:layout_marginLeft="5dp"
+            android:layout_below="@+id/tv1"
+            tools:text="Sentiment score is - " />
 
-    <!--<TextView-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:layout_marginTop="10dp"-->
-        <!--android:text="上传联系人、词表，可以使云端识别联系人和词表更加准确，这里上传的内容对语义理解同样有效。"-->
-        <!--android:textSize="@dimen/txt_size" />-->
+        <TextView
+            android:id="@+id/get_sentiment_score"
+            style="@style/LabelText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/skyblue"
+            android:layout_below="@+id/azure"
+            android:layout_alignParentLeft="true"
+            android:text="@string/label_sentiment_score" />
 
-    <!--<LinearLayout-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="wrap_content"-->
-        <!--android:layout_marginBottom="2dp"-->
-        <!--android:layout_marginTop="10dp"-->
-        <!--android:gravity="center_horizontal"-->
-        <!--android:orientation="horizontal" >-->
-
-        <!--<Button-->
-            <!--android:id="@+id/iat_upload_contacts"-->
-            <!--android:layout_width="0dp"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:layout_weight="1"-->
-            <!--android:text="上传联系人"-->
-            <!--android:textSize="17sp" />-->
-
-        <!--<Button-->
-            <!--android:id="@+id/iat_upload_userwords"-->
-            <!--android:layout_width="0dp"-->
-            <!--android:layout_height="wrap_content"-->
-            <!--android:layout_weight="1"-->
-            <!--android:text="上传词表"-->
-            <!--android:textSize="17sp" />-->
-    <!--</LinearLayout>-->
+        <TextView
+            style="@style/LabelText"
+            android:id="@+id/iat_recognize2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/skyblue"
+            android:text="Submit"
+            android:onClick="Submit"
+            android:layout_below="@+id/azure"
+            android:layout_alignParentRight="true"
+            android:textColor="@color/white"/>
+    </RelativeLayout>
 
 </LinearLayout>
