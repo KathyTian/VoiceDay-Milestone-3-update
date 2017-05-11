@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
         "merged": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
         "source": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/drawable-v23/abc_control_background_material.xml"
     }

@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
         "merged": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
         "source": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },

@@ -1,7 +1,4 @@
-#Wed May 10 21:21:28 EDT 2017
-base.0=/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_85634e52236c3ce895aec6bba9f3c2750bc223b4
-renamed.1=classes2.dex
+#Wed May 10 22:57:31 EDT 2017
+base.0=/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.1=/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3950eed4d3603d04ba37604c6964fb9a05944802/classes.dex
-base.1=/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3950eed4d3603d04ba37604c6964fb9a05944802
-file.0=/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_85634e52236c3ce895aec6bba9f3c2750bc223b4/classes.dex
+file.0=/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

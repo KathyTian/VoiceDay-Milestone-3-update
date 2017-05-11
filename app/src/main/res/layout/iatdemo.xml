@@ -97,7 +97,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="8dp"
             android:layout_toRightOf="@+id/tv1"
-            android:layout_marginLeft="5dp"
+            android:layout_marginLeft="10dp"
             tools:text="Sentiment score is - " />
 
         <TextView
@@ -116,7 +116,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="8dp"
             android:layout_toRightOf="@+id/tv1"
-            android:layout_marginLeft="5dp"
+            android:layout_marginLeft="10dp"
             android:layout_below="@+id/tv1"
             tools:text="Sentiment score is - " />
 

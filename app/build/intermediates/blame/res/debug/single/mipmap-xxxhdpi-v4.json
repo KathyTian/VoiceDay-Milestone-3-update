@@ -6,5 +6,13 @@
     {
         "merged": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
         "source": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/Users/Astrid_Ti/Desktop/MileStone/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/notebook.png",
+        "source": "/Users/Astrid_Ti/Desktop/MileStone/app/src/main/res/mipmap-xxxhdpi/notebook.png"
     }
 ]

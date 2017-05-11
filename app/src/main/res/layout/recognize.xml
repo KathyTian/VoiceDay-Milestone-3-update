@@ -25,16 +25,15 @@
                 <!--/>-->
 
             <Button
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
                 android:layout_marginLeft="60dp"
                 android:layout_marginRight="@dimen/margin_"
                 android:layout_marginTop="5dp"
-                android:text="Select an Image to analyze"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Select an Image to Analyze"
                 android:id="@+id/buttonSelectImage"
                 android:background="@drawable/skyblue"
                 android:textColor="@android:color/white"
-
                 android:onClick="selectImage"/>
 
 
@@ -48,7 +47,7 @@
             android:layout_marginTop="5dp"
             android:layout_toRightOf="@+id/image_control"
             android:layout_toEndOf="@+id/image_control"
-            android:background="#E0E0E0" />
+            android:background="#df9085" />
         <LinearLayout
             android:orientation="horizontal"
             android:layout_width="match_parent"

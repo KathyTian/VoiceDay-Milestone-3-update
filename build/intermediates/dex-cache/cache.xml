@@ -2,283 +2,265 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_1a99084ffafbaed5d1d27f4e08a99a77203f5540/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_a743d543c6ba5047d59eba10077b8029ff065fd2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_67f5e7bfd568a917bcd94924ee717d0c707267ad/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.2_4a3310f6415eb9c01e888f3801532a2a238ba382/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.3.1_fc19056585ea5761075df91d64abdf04523aad07/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.1/b9d63507329a7178e026fc334f87587ee5070ac5/gson-2.6.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.1_cd32edf48940f01b1b9650790371db7ae642cbb1/classes.dex" />
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/gson-2.6.1_13ddffe079ea92f6d6e1b7d84a944ae48909aa6f.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_020c4aca244f273a8b0d59dfb526a97eddcead08/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_30454b24a89a2b8e6b22144ce96c3aeaa9ec4cfa/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_58fcfe6d0ad9e4e0c1774249a89a31fd08af78d6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.microsoft.projectoxford/face/1.3.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0eb767b1866b90c9943840396ab08dd113b9a500">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.microsoft.projectoxford-face-1.3.0_823d12995b97db15f9735da60c5cad7d660f134f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.2_b9cbf2bcba38fb5be14469c3bb1d50ca402ae97e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.3.1_158fa321022cf156b0baff79df60e38ed8f4eb0e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="58819cc5f8ea9baefcf41481b924bfcbe6a90bb5">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_85634e52236c3ce895aec6bba9f3c2750bc223b4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.microsoft.projectoxford/emotion/1.0.355/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e14806eb68bf5098f8a6b6f09e414143b7532280">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.microsoft.projectoxford-emotion-1.0.355_47ce4d1fe079fc1effdc824c4fb7255c99fa8e9c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/libs/achartengine-1.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1bd51fadf0ff57472b9c0bb3955a28fc0fbc97b8">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/2/achartengine-1.2.0_71f8f00e1c496ea7fadd2fd4e48ce37095354214/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_4335068c17440cc51b53970a4e1bc60fcb5a2c4a/classes.dex" />
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_a9f04d3c7e637af4df981d33899e2b1e5369a905.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_bde23d667273aac89b01d1c4eeafaadd7b483585/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_af3aa8613edc660f171a918abf5a45146700c82e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.2_4b554613e1d5f21047cf8ea53b90a8be5163e695/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/libs/Sunflower.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f5a75f4f67bab87e0e5b29087109f9a6110dfb36">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/2/Sunflower_9a7dc84e211085eb4035cba41a0f98d2fac78c40/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.2/a60c039ba54c73d1133b72178e1b04133c73d13d/adapter-rxjava-2.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a60c039ba54c73d1133b72178e1b04133c73d13d">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.0.2_b70d8771951a95f3b116dd5206f0876bbd1abfdd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_5ad0bb4c1e8a6c649677a221ac29512083db3601/classes.dex" />
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_0564a5704f1b3517dada33d68e331e0022b847cf.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.3.1_5deb6738204bb11448ca5263ef54b8b1e72fbfdc/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1ae87290b289fe3cd4c33ae359bd8a933e155879">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3950eed4d3603d04ba37604c6964fb9a05944802/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/libs/emokitsdk4.3.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="de5e43d93c41b2f34ba9ffbd45f8bdce599c9150">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/2/emokitsdk4.3.1_b575559926506fab28e1835fc62b9eb8feb5d0f7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_9625bc0c2e53ff25cad305dd7c77ddcf1d74f3e8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.4_db9d9c7f5dc9abc44c05f9a56b43532b2a4af315/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_d6755dd03e2ec04e70a2cff5e94b01ed313a4c4e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/libs/Msc.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d5b88f9b0f2ebaa459163f646654fbc1e45a34d4">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/2/Msc_a9fa372a578e2f2496e7e24f111fad2dfd41b70e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_cf4ecf03fc516d1f9d2df84acfac566794be40c5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/Kathy.Tian/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.1/b494968f6050d494de55dc3ce005e59c7eb40012/rxjava-1.1.1.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.1/b494968f6050d494de55dc3ce005e59c7eb40012/rxjava-1.1.1.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="b494968f6050d494de55dc3ce005e59c7eb40012">
-        <dex dex="/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.1_585e3d8e11d2b11b95c9afa00d117000fc7ad407/classes.dex" />
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/rxjava-1.1.1_145a935e80f0eb0d60ae8f45e85c1a90673af9e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.2/a60c039ba54c73d1133b72178e1b04133c73d13d/adapter-rxjava-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a60c039ba54c73d1133b72178e1b04133c73d13d">
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.0.2_c372b2c73d55618a00aa8be12ba29bc59ded91b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/retrofit-2.0.2_18ad125e7f81e016f9a251a79b138148965fef36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_9b106b6c8c24915702bb220616153dd007901c2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/okio-1.6.0_9d2182b73d9f6e26f66ec5e4a5e9d3ef23bdb0d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.2_f6afb0d867f2b0ffa70c8544c66d6e27724f75de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.3.1_a04e5565a1b14377982ea5095e20477ea6bd71fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/exploded-aar/com.microsoft.projectoxford/face/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0eb767b1866b90c9943840396ab08dd113b9a500">
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/com.microsoft.projectoxford-face-1.3.0_35b74efe979339810a843fe93f01b33d9ff5b6d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/commons-io-2.4_db9d9c7f5dc9abc44c05f9a56b43532b2a4af315.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.3.1_08c743a14fb513bc1df3137988f567789a100613.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_3b437865e53d0c1f12c002cb1fe5aef547710d81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/Desktop/MileStone/app/libs/Sunflower.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5a75f4f67bab87e0e5b29087109f9a6110dfb36">
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/Sunflower_9db82aae0e13665a84dc1c5cd61048aec2a0cf4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_981dc215c13e453a573ec288c547e03efb0395b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/Desktop/MileStone/app/libs/emokitsdk4.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de5e43d93c41b2f34ba9ffbd45f8bdce599c9150">
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/emokitsdk4.3.1_efbfbcd47f9a8a1867ed968ec7897ecdaec90520.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_4fe4c54108546b6133302c7f6711b8267ad85bef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/exploded-aar/com.microsoft.projectoxford/emotion/1.0.355/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e14806eb68bf5098f8a6b6f09e414143b7532280">
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/com.microsoft.projectoxford-emotion-1.0.355_9fda830560b1067904337628d34622f3cdfd8871.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_05c484f218da545f61476287e9fc1f49d66cd62b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_62f2c0dddcd769e67bc0c18491cadc0fc0be35b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_c9e3601fe8766acc0b2140828c3f8aa125ad236e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/Desktop/MileStone/app/libs/Msc.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5b88f9b0f2ebaa459163f646654fbc1e45a34d4">
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/Msc_1de80c73bb4b84d9d8ee509a8521f33b543e6ed1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/Desktop/MileStone/app/libs/achartengine-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bd51fadf0ff57472b9c0bb3955a28fc0fbc97b8">
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/achartengine-1.2.0_111897f781e0748c0dd2534da32f12a403f1773a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_8c443f28586a387946d01e1739a0b73b870f6097.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/exploded-aar/com.android.support/transition/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.3.1_6b228a507daf591ceda75d9f64fad1ae6360fa10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_828e04c7c31678eeb2eb0ca0943b50425f5e6cf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_e7ec2ff815127540c0c251e649ba8452b36c8945.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_b54b711429e966f95d4d57a394a3e12e4890eb8c.jar" />
     </item>
 
 </items>

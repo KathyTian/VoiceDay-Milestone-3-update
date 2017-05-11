@@ -5,43 +5,61 @@
     android:orientation="vertical"
     android:background="@drawable/layout_backgroud">
 
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp" >
+
     <TextView
         android:id="@+id/time"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
+        android:layout_alignParentLeft="true"
         android:layout_height="wrap_content" />
 
     <TextView
+        android:id = "@+id/sentitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Sentiment" />
+        android:layout_alignParentLeft="true"
+        android:text="Sentiment:" />
 
     <TextView
         android:id="@+id/sentiment"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
-
-    <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="word" />
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/sentitle"/>
+
+    <TextView
+        android:id="@+id/wordtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:text="Diary:"
+        android:layout_below="@+id/sentitle"/>
 
     <TextView
         android:id="@+id/word"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
-
-    <Button
-        android:id="@+id/ppublic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/wordtitle"
+        android:layout_marginLeft="10dp"
+        android:layout_below="@+id/sentitle"/>
+    </RelativeLayout>
+    <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-
-        android:layout_marginLeft="@dimen/margin_"
-        android:layout_marginRight="@dimen/margin_"
-        android:layout_marginTop="30dp"
+        android:layout_margin="10dp" >
+    <TextView
+        android:id="@+id/ppublic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:background="@color/skyblue"
-        android:text="Public"
+        android:text="Make it Public"
         android:onClick="MakePublic"
         android:textSize="20sp"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white"
 
+        style="@style/LabelText" />
+    </RelativeLayout>
 </LinearLayout>

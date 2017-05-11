@@ -1,10 +1,18 @@
 [
     {
+        "merged": "/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
         "merged": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
         "source": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/drawable-anydpi-v21/design_ic_visibility.xml"
     },
     {
         "merged": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
         "source": "/Users/Kathy.Tian/Documents/second semester/big data/new 3/MileStone_3/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/Astrid_Ti/Desktop/MileStone/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/drawable-anydpi-v21/design_ic_visibility.xml"
     }
 ]
